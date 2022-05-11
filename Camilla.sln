@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camilla", "Camilla\Camilla.csproj", "{FE2692EC-3E1B-443F-9C2E-2545D60E174B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2692EC-3E1B-443F-9C2E-2545D60E174B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2692EC-3E1B-443F-9C2E-2545D60E174B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2692EC-3E1B-443F-9C2E-2545D60E174B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2692EC-3E1B-443F-9C2E-2545D60E174B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF4EC28-520A-410A-85DE-04308C5FE187}
+	EndGlobalSection
+EndGlobal
